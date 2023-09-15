@@ -38,7 +38,7 @@ class Program
             Console.WriteLine($"{name.ToUpper()} you have {age} years old: ELDERLY!");
         }
 
-        else if (age > 100)
+        else
         {
             Console.WriteLine($"{name.ToUpper()} you have {age} years old: MUMMY!");
         }
