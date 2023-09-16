@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LOURENXX\\Desktop\\CSharp\\CSharp.csproj": {}
+    "c:\\Users\\LOURENXX\\Desktop\\CSharp\\CSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LOURENXX\\Desktop\\CSharp\\CSharp.csproj": {
+    "c:\\Users\\LOURENXX\\Desktop\\CSharp\\CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LOURENXX\\Desktop\\CSharp\\CSharp.csproj",
+        "projectUniqueName": "c:\\Users\\LOURENXX\\Desktop\\CSharp\\CSharp.csproj",
         "projectName": "CSharp",
-        "projectPath": "C:\\Users\\LOURENXX\\Desktop\\CSharp\\CSharp.csproj",
+        "projectPath": "c:\\Users\\LOURENXX\\Desktop\\CSharp\\CSharp.csproj",
         "packagesPath": "C:\\Users\\LOURENXX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LOURENXX\\Desktop\\CSharp\\obj\\",
+        "outputPath": "c:\\Users\\LOURENXX\\Desktop\\CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LOURENXX\\AppData\\Roaming\\NuGet\\NuGet.Config"
