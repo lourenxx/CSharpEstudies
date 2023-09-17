@@ -13,3 +13,11 @@ C:\Users\LOURENXX\Desktop\CSharp\obj\Debug\net6.0\refint\CSharp.dll
 C:\Users\LOURENXX\Desktop\CSharp\obj\Debug\net6.0\CSharp.pdb
 c:\Users\LOURENXX\Desktop\CSharp\obj\Debug\net6.0\CSharp.genruntimeconfig.cache
 c:\Users\LOURENXX\Desktop\CSharp\obj\Debug\net6.0\ref\CSharp.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\CSharpEstudies\obj\Debug\net6.0\CSharp.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\CSharpEstudies\obj\Debug\net6.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Área de Trabalho\CSharpEstudies\obj\Debug\net6.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\CSharpEstudies\obj\Debug\net6.0\CSharp.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\CSharpEstudies\obj\Debug\net6.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\CSharpEstudies\obj\Debug\net6.0\CSharp.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\CSharpEstudies\obj\Debug\net6.0\refint\CSharp.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\CSharpEstudies\obj\Debug\net6.0\CSharp.pdb

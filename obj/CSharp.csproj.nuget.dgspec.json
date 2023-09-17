@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\LOURENXX\\Desktop\\CSharp\\CSharp.csproj": {}
+    "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\CSharpEstudies\\CSharp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\LOURENXX\\Desktop\\CSharp\\CSharp.csproj": {
+    "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\CSharpEstudies\\CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\LOURENXX\\Desktop\\CSharp\\CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\CSharpEstudies\\CSharp.csproj",
         "projectName": "CSharp",
-        "projectPath": "c:\\Users\\LOURENXX\\Desktop\\CSharp\\CSharp.csproj",
-        "packagesPath": "C:\\Users\\LOURENXX\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\LOURENXX\\Desktop\\CSharp\\obj\\",
+        "projectPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\CSharpEstudies\\CSharp.csproj",
+        "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\CSharpEstudies\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LOURENXX\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
         }
       }
     }
