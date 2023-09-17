@@ -8,9 +8,9 @@ class Program
         int productQuant;
         string payment; 
 
-        Console.WriteLine("enter the product code [2, 5 or 6]: ");
+        Console.WriteLine("enter the product code (2, 5 or 6): ");
         productCode = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine("enter the the product quantity: ");
+        Console.WriteLine("enter the the product quantity (MONEY OR CARD): ");
         productQuant = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("enter the payment method: ");
         payment = Console.ReadLine();
