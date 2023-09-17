@@ -4,45 +4,29 @@ class Program
 {
     static void Main(string[] args)
     {
+        int productCode;
+        int productQuant;
+        string payment; 
 
-        string name;
-        int age;
+        Console.WriteLine("enter the product code: ");
+        productCode = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("enter the the product quantity: ");
+        productQuant = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("enter the payment method: ");
+        payment = Console.ReadLine();
 
-        Console.WriteLine("enter your NAME: ");
-        name = Console.ReadLine();
-        Console.WriteLine("enter you AGE");
-        age = Convert.ToInt32(Console.ReadLine());
-
-        if (age < 0)
+        if (productCode == 5)
         {
-            Console.WriteLine($"{name.ToUpper()} you have {age} years old: BABY!");
+            double finalValue = 32 * productQuant;
+            if (payment == "money")
+            {
+                if (finalValue >= 500)
+                {
+                    double discountValue = finalValue * 0.15;
+                    Console.WriteLine($"the final valor with the discount now is: {discountValue}");
+                }
+            }
         }
-
-        else if (age <= 10)
-        {
-            Console.WriteLine($"{name.ToUpper()} you have {age} years old: CHILD!");
-        }
-
-        else if (age <= 18)
-        {
-            Console.WriteLine($"{name.ToUpper()} you have {age} years old: TEENAGER!");
-        }
-
-        else if (age <= 60)
-        {
-            Console.WriteLine($"{name.ToUpper()} you have {age} years old: ADULT!");
-        }
-
-        else if (age <= 100)
-        {
-            Console.WriteLine($"{name.ToUpper()} you have {age} years old: ELDERLY!");
-        }
-
-        else
-        {
-            Console.WriteLine($"{name.ToUpper()} you have {age} years old: MUMMY!");
-        }
-
 
     }
 }
