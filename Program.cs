@@ -18,6 +18,20 @@ class Program
         if (productCode == 5)
         {
             double finalValue = 32 * productQuant;
+            if (payment == "card")
+            {
+                if (productQuant >= 10)
+                {
+                    double discountValue = finalValue * 0.08;
+                    Console.WriteLine($"the final valor with the discount now is: {discountValue}");
+                }
+
+                else 
+                {
+                    double discountValue = finalValue * 0.02;
+                    Console.WriteLine($"the final valor with the discount now is: {discountValue}");
+                }
+            }
             if (payment == "money")
             {
                 if (finalValue >= 500)
