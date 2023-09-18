@@ -28,3 +28,18 @@ C:\Users\guilh\OneDrive\Área de Trabalho\CSharpEstudies\bin\Debug\net6.0\CSharp
 C:\Users\guilh\OneDrive\Área de Trabalho\CSharpEstudies\bin\Debug\net6.0\CSharp.pdb
 C:\Users\guilh\OneDrive\Área de Trabalho\CSharpEstudies\obj\Debug\net6.0\CSharp.genruntimeconfig.cache
 C:\Users\guilh\OneDrive\Área de Trabalho\CSharpEstudies\obj\Debug\net6.0\ref\CSharp.dll
+C:\Users\082230011\Desktop\CSharpEstudies\bin\Debug\net6.0\CSharp.exe
+C:\Users\082230011\Desktop\CSharpEstudies\bin\Debug\net6.0\CSharp.deps.json
+C:\Users\082230011\Desktop\CSharpEstudies\bin\Debug\net6.0\CSharp.runtimeconfig.json
+C:\Users\082230011\Desktop\CSharpEstudies\bin\Debug\net6.0\CSharp.dll
+C:\Users\082230011\Desktop\CSharpEstudies\bin\Debug\net6.0\CSharp.pdb
+C:\Users\082230011\Desktop\CSharpEstudies\obj\Debug\net6.0\CSharp.csproj.AssemblyReference.cache
+C:\Users\082230011\Desktop\CSharpEstudies\obj\Debug\net6.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\082230011\Desktop\CSharpEstudies\obj\Debug\net6.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\082230011\Desktop\CSharpEstudies\obj\Debug\net6.0\CSharp.AssemblyInfo.cs
+C:\Users\082230011\Desktop\CSharpEstudies\obj\Debug\net6.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\082230011\Desktop\CSharpEstudies\obj\Debug\net6.0\CSharp.dll
+C:\Users\082230011\Desktop\CSharpEstudies\obj\Debug\net6.0\refint\CSharp.dll
+C:\Users\082230011\Desktop\CSharpEstudies\obj\Debug\net6.0\CSharp.pdb
+C:\Users\082230011\Desktop\CSharpEstudies\obj\Debug\net6.0\CSharp.genruntimeconfig.cache
+C:\Users\082230011\Desktop\CSharpEstudies\obj\Debug\net6.0\ref\CSharp.dll
